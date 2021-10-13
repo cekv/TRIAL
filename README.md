@@ -1,5 +1,5 @@
 TRIAL
-#### This is a trial to test how to edit in GitHub
+#### This is a trial to test how to edit in GitHub and to try how GitKraken works
 
 ###### The importance of a readme file
 * tells you waht the project does
@@ -10,4 +10,5 @@ TRIAL
 * Why the project is wothy 
 * Wwo maintains the project.
 
-[for more information](www.google.com)
+
+Use tihis link [for more information](www.google.com) 
